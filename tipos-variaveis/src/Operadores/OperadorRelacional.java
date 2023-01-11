@@ -1,3 +1,4 @@
+package Operadores;
 import javax.swing.plaf.synth.SynthSplitPaneUI;
 
 public class OperadorRelacional {

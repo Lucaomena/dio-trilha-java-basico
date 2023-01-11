@@ -1,3 +1,4 @@
+package Operadores;
 public class Operador3 {
     
     public static void main(String[] args) {
